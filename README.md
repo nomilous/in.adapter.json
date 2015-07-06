@@ -19,6 +19,8 @@ $$in(function(
 $$in(function(
   stream // in.as.stream.json $ something that emits json
 ){
+  // stream.on('error' ...
+  // stream.on('end' ...
   stream.on('data', function(obj) {
 
   });
