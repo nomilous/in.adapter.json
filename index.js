@@ -1,6 +1,6 @@
 EventEmitter = require('events').EventEmitter;
 
-$$in.adapters.json = function(opts, inArgs, arg, results) {
+module.exports = $$in.adapters.json = function(opts, inArgs, arg, results) {
 
   var isStream = results[0].adapters.indexOf('stream') >= 0;
   var isBuffer = results[0].adapters.indexOf('buffer') >= 0;

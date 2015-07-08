@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nomilous/in.adapter.json/issues"
   },
-  "homepage": "https://github.com/nomilous/in.adapter.json#readme"
+  "homepage": "https://github.com/nomilous/in.adapter.json#readme",
+  "devDependencies": {
+    "should": "^7.0.1"
+  }
 }
