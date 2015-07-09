@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nomilous/in.adapter.json.svg?branch=master)](https://travis-ci.org/nomilous/in.adapter.json)
+
 # in.adapter.json
 
 Json parser for [in.](https://github.com/nomilous/in.)
